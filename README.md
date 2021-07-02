@@ -1,6 +1,6 @@
-### Boas, sou o Sammy mais conhecido como [Fukk!!CodeRED][website] 👋
+### Boas, sou o Sammy mais conhecido como [Fukk!!CodeRED][1337] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/youtube/channel/subscribers/UCfB-27k_7u0lO2mLaXWpgaA?style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## Sou um estudante de 16 anos que mora na França!
