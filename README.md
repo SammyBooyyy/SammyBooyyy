@@ -37,5 +37,5 @@
 ---
 
 [1337]: https://discord.gg/jejV5cTJmd
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCfB-27k_7u0lO2mLaXWpgaA
 [instagram]: https://instagram.com/fukkcodered1337
