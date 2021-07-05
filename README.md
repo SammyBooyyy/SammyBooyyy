@@ -3,9 +3,7 @@
 [![Website](https://img.shields.io/youtube/channel/subscribers/UCfB-27k_7u0lO2mLaXWpgaA?style=for-the-badge)][youtube]
 
 
-### Spotify Playing 🎧
 
-[<img src="github-readme-stats-mu-ashen.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/dcevdn32cb0ow98d9dja72ui)
 
 
 ## Sou um estudante de 16 anos que mora na França!
