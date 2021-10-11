@@ -8,13 +8,11 @@
 
 ## Sou um estudante de 16 anos que mora na França!
 
-- 🔭 Staff da [TROPA 1337][1337]!
 - 🌱 A aprender python
 
 
 ### Entra em contacto comigo!
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][1337]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -36,6 +34,5 @@
 
 ---
 
-[1337]: https://discord.gg/jejV5cTJmd
 [youtube]: https://www.youtube.com/channel/UCfB-27k_7u0lO2mLaXWpgaA
 [instagram]: https://instagram.com/fukkcodered1337
