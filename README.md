@@ -6,7 +6,7 @@
 
 
 
-## Sou um estudante de 16 anos que mora na França!
+## Sou um estudante de 19 anos que mora na França!
 
 - 🌱 A aprender python
 
